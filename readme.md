@@ -141,7 +141,6 @@ print(f"Predicted digit: {prediction}")
 |-----------|---------------|
 | **Input X** | `(784, 1)` |
 | **Target Y** | `(10, 1)` |
-| **Hidden Layer** | `(100, 1)` |
 | **Output Layer** | `(10, 1)` |
 | **Weights W₁** | `(784, 100)` |
 | **Weights W₂** | `(100, 10)` |
